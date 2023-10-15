@@ -4,7 +4,7 @@ Hello, my name is Matthew. I am a 2nd year student at the Belarusian State Techn
 
 I love the world of web development. I have experience with JavaScript and TypeScript, as well as experience developing projects in React and a little in Next.js. I have also used Express.js and have experience linking client and server side applications and using databases such as SQLite and PostgreSQL to create a complete web application. Currently, I am focusing on learning Go and its application in backend development.
 
-My goal is to become a full-stack developer and I'm looking to expand my skill set, especially in backend development using JS and Go.
+My goal is to become a full-stack developer and I'm looking to expand my skill set, especially in backend development using NodeJS and Go.
 
 ---
 
