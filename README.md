@@ -2,9 +2,7 @@
 
 Hello, my name is Matthew. I am a 2nd year student at the Belarusian State Technological University, majoring in Information Technology Software. My days at university are filled with learning C++ as well as algorithms and data structures.
 
-I love the world of web development. I have experience with JavaScript and TypeScript, as well as experience developing projects in React and a little in Next.js. I have also used Express.js and have experience linking client and server side applications and using databases such as SQLite and PostgreSQL to create a complete web application. Currently, I am focusing on learning Go and its application in backend development.
-
-My goal is to become a full-stack developer and I'm looking to expand my skill set, especially in backend development using NodeJS and Go.
+I love backend development. I'm experienced with Golang using Gin, Echo, Fiber and TypeScript using NestJS. I have also used React and have experience linking client and server side applications. I like using Docker, Prisma ORM, PotsgreSQL, Gorm, sqlc when working on my pet projects. Currently, I am focusing on learning how to build microservice architecture with different tools like Nginx, Elastic Search, Prometheus, Redis, RabbitMQ etc.
 
 ---
 
