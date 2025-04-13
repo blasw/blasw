@@ -1,9 +1,5 @@
 # 🌙 blasw
 
-Hello, my name is Matthew. I am a 2nd year student at the Belarusian State Technological University, majoring in Information Technology Software. My days at university are filled with learning C++ as well as algorithms and data structures.
-
-I love backend development. I'm experienced with Golang using Gin, Echo, Fiber and TypeScript using NestJS. I have also used React and have experience linking client and server side applications. I like using Docker, Prisma ORM, PotsgreSQL, Gorm, sqlc when working on my pet projects. Currently, I am focusing on learning how to build microservice architecture with different tools like Nginx, Elastic Search, Prometheus, Redis, RabbitMQ etc.
-
 ---
 
 ### 🛠️ Languages and Tools
